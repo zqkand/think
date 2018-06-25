@@ -6,8 +6,8 @@ class Index
     private $bvsUrl = 'http://bvs.haier.net/getOrderToRpm';
     public function index()
     {
-        
-////        echo 111;die;
+
+        echo 111;die;
 //        $arr = $this->getPhoneArr();
 //        foreach ($arr as $v){
 //              if(!empty($v)){
