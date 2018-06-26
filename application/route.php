@@ -15,6 +15,7 @@ return [
     'getOrder' => 'index/Index/getOrder',
     'upload' => 'web/Index/upload',
     'test' => 'index/Test/index',
+    'redis' => 'index/TestRedis/index',
     '__pattern__' => [
         'name' => '\w+',
     ],
