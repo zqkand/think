@@ -14,6 +14,7 @@ return [
     'test' => 'index/Index/index',
     'getOrder' => 'index/Index/getOrder',
     'upload' => 'web/Index/upload',
+    'test' => 'index/Test/index',
     '__pattern__' => [
         'name' => '\w+',
     ],
