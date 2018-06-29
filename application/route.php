@@ -10,6 +10,9 @@
 // +----------------------------------------------------------------------
 
 return [
+    'plData' => 'data/Index/index',
+    'index' => 'index/Index/index',
+    'plUser' => 'data/Index/plUser',
     '__pattern__' => [
         'name' => '\w+',
     ],
